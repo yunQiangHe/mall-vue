@@ -59,7 +59,7 @@
       <!-- <div class="showdows"></div> -->
     </section>
 
-    <!-- <footer class="info">
+    <footer class="info">
       <p>Double-click to edit a todo</p>
       <p>
         Written by
@@ -69,7 +69,7 @@
         Part of
         <a href="javascript:;">TodoMVC</a>
       </p>
-    </footer>-->
+    </footer>
   </div>
 </template>
 
